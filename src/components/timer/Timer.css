@@ -1,0 +1,14 @@
+.timer {
+  background-color: #e23e57; 
+  color: #ffffff; 
+  padding: 1px; 
+  border-radius: 20px; 
+  text-align: center; 
+  margin: 20px 0; 
+  font-size: 1.2rem; 
+}
+
+.timer p {
+  font-weight: bold; 
+  font-size: 2.4rem; 
+}
